@@ -45,7 +45,7 @@ the given task was completed successfully.
 
 One area of improvement (while keeping the given tasks in mind):
 - For the "Forgot Password" link I used CSS to change the color of the text.
-Instead, I could have used an <a> tag in the HTML to create the same result, 
+Instead, I could have used an a tag in the HTML to create the same result, 
 which would have been a better option, as this would have created a clickable 
 link.
 
