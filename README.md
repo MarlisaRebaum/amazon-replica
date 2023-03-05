@@ -31,8 +31,8 @@ of a screenshot of a sign-in form provided.
 #### Screenshot to be Replicated:
 ![Sign-in Form to be Replicated](./images/template.JPG)
 
-#### Replica of Provided Screenshot:
-![Replicated Sign-in Form](./images/replica.JPG)
+#### My Replica:
+![My Replica](./images/replica.JPG)
 
 
 ## Project Status
